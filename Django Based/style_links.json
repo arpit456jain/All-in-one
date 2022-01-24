@@ -1,0 +1,45 @@
+[
+  {
+    "name": "Coding Easy",
+    "link": "CodingEasy"
+  },
+  {
+    "name": "Task Manager",
+    "link": "TaskManager"
+  },
+  {
+    "name": "My-Dynamic-Gallery-In-Django ",
+    "link": "My-Dynamic-Gallery-In-Django "
+  },
+  {
+    "name": "CodesmashersBlog-In-Django",
+    "link": "CodesmashersBlog-In-Django"
+  },
+  {
+    "name": "To-Do-App-In-Django",
+    "link": "To-Do-App-In-Django"
+  }
+  ,
+  {
+    "name": "CalculatorApp-In-Django ",
+    "link": "CalculatorApp-In-Django "
+  }
+  ,
+  {
+    "name": "StringAnalyzer-In-Django ",
+    "link": "StringAnalyzer-In-Django "
+  }
+  ,
+  {
+    "name": "SocialMediaAPP-in-Django  ",
+    "link": "SocialMediaAPP-in-Django"
+  },
+  {
+    "name": "University-Management-System ",
+    "link": "University-Management-System "
+  },
+  {
+    "name": "How to deploy django app to heroku",
+    "link": "DjangoToHeroku "
+  }
+]

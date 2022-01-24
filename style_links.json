@@ -1,48 +1,25 @@
 [
-  {
-    "name": "Amazing css effects",
-    "link": "Amazing-Css-Effects"
-  },
-  {
-    "name": "Amazing-Js-Projects ",
-    "link": "Amazing-Js-Projects "
-  },
-  {
-    "name": "Cool-Front-End-Templates ",
-    "link": "Cool-Front-End-Templates"
-  },
-  {
-    "name": "Coding Easy",
-    "link": "CodingEasy"
-  },
-  {
-    "name": "Task Manager",
-    "link": "TaskManager"
-  },
+  
   {
     "name": "Getting-Started-with-open-source",
     "link": "Getting-Started-with-open-source "
-  },
+  }
+  ,
   {
-    "name": "Web-Development-Path-And-Resources",
-    "link": "Web-Development-Path-And-Resources "
-  },
-  {
-    "name": "gfg-11-Weeks-Workshop-on-DSA-in-CPP",
-    "link": "gfg-11-Weeks-Workshop-on-DSA-in-CPP"
-  },
-    {
-    "name": "DSA-Path-And-Important-Questions",
-    "link": "DSA-Path-And-Important-Questions"
-    }
-    ,
-    {
-      "name": "Open-Source-Programs",
+    "name": "Open-Source-Programs",
     "link": "Open-Source-Programs"
-    }
-    ,
-    {
-      "name": "My-Dynamic-Gallery-In-Django ",
-    "link": "My-Dynamic-Gallery-In-Django "
-    }
+  }
+  ,
+  {
+    "name": "Beginner-Friendly-Repos-for-Hacktoberfest",
+    "link": "Beginner-Friendly-Repos-for-Hacktoberfest"
+  },
+  {
+    "name": "How to deploy django app to heroku",
+    "link": "DjangoToHeroku "
+  },
+  {
+    "name": "How to deploy flask app to heroku",
+    "link": "Flask-App-Heroku"
+  }
 ]
