@@ -22,4 +22,9 @@
     "name": "How to deploy flask app to heroku",
     "link": "Flask-App-Heroku"
   }
+  ,
+  {
+    "name": "GATE-Path-And-Resources-CSE",
+    "link": "GATE-Path-And-Resources-CSE"
+  }
 ]
